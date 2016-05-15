@@ -5,6 +5,6 @@ set :port, 4000
  get '/' do
    "I'm alive!"
  end
- get '/italiian' do
+ get '/italian' do
    "Ciao!"
  end
