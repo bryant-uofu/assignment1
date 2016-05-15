@@ -8,3 +8,9 @@ set :port, 4000
  get '/italian' do
    "Ciao!"
  end
+ get '/NewYork' do
+   "The City that never Sleeps!"
+ end
+ get '/Vinnie' do
+   "He's a guy who knows guys!"
+ end
