@@ -8,6 +8,9 @@ set :port, 4000
  get '/italian' do
    "Ciao!"
  end
+get '/read_more' do
+   "When there's more to be read, you'll find it here…"
+ end
  get '/NewYork' do
    "The City that never Sleeps!"
  end
